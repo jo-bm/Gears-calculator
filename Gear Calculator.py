@@ -1,6 +1,6 @@
 
 #pitch=teeth/diameter
-#pitch*diameeteer=teeth
+#pitch*diameter=teeth
 
 class gear:
     def __init__(self,name,radius,teeth):
